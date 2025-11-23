@@ -85,7 +85,10 @@ Building this project involved overcoming several significant technical hurdles.
 * *Solution:* Implemented *Binary Thresholding* (cv2.threshold) in the OpenCV loop. This forces the image to be strictly Black & White before the model sees it, removing background noise and boosting confidence to *99%*.
 
 
-
 ##  Dataset
 The dataset consists of real-world images of Kannada digits collected manually.
 *[https://www.kaggle.com/datasets/hsbharath/kannada-handwritten-digit-dataset]*
+
+## contributor's
+* **Bharath HS**
+* **Gagan  M**
